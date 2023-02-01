@@ -1,6 +1,6 @@
 # 💫 - Hakkımda :
 - 👀 Web Yazılımı Ve Genel Kodlama İle Uğraşıyorum.
-- 🌱 Aynı Zamanda Express ve Node.js İle Kendimi Geliştiryorum.
+- 🌱 Aynı Zamanda Express ve Node.js İle Kendimi Geliştiriyorum.
 - 📫 Bana Instagram ve Discord Üzerinden Ulaşabilirsiniz.
 
 # 📊- Github İstatistikleri :
