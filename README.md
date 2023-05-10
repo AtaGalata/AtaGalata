@@ -6,9 +6,9 @@
 # 📊- Github İstatistikleri :
 
 <p align="center">
-  <a href="https://github.com/AtaGalata"><img title="Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=atagalata&theme=dark&hide_border=true&include_all_commits=true&count_private=true"></a>
+  <a href="https://github.com/AtaGalata"><img title="Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=atagalata&theme=dark&hide_border=true"></a>
   <a href="https://github.com/AtaGalata"><img title="Streaks" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=atagalata&theme=dark&hide_border=true"></a>
-  <a href="https://github.com/AtaGalata"><img title="Most Used Languages" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atagalata&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
+  <a href="https://github.com/AtaGalata"><img title="Most Used Languages" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atagalata&theme=dark&hide_border=true&include_all_commits=true&layout=compact"></a>
 </p>
 
 # 🌐- Sosyal Medyalar :
