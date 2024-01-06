@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="https://discord.com/users/626847465601236992"><img title="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-  <a href="https://instagram.com/dxmr_ayberkk"><img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="[https://instagram.com/dxmr_ayberkk](https://youtube.com/@AtaGalata)"><img title="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+  <a href="https://instagram.com/dxmrr_ayberk"><img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://youtube.com/@AtaGalata"><img title="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
 
 # 💻 - Bildiğim Diller :
